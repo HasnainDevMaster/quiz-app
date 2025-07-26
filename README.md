@@ -58,9 +58,10 @@ This will open the quiz in your default browser at:
 
 ```
 quiz-app/
-│── app.py        # Main application file
+│── main.py        # Main application file
 │── README.md     # Documentation
 ```
+---
 
 ## 🎮 **How to Play**
 
