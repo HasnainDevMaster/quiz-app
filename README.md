@@ -46,7 +46,7 @@ source .venv/bin/activate  # Mac/Linux
 ## 🚀 **Run the Application**
 
 ```bash
-uv run streamlit run app.py
+uv run streamlit run main.py
 ```
 
 This will open the quiz in your default browser at:
